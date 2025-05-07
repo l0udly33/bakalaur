@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\admin",
+    "\\resources\\views\\admin\\applications",
+    "\\resources\\views\\balance",
+    "\\resources\\views\\chat",
+    "\\resources\\views\\forum",
+    "\\resources\\views\\orders",
+    "\\resources\\views\\statistics",
+    "\\resources\\views\\trainer"
+  ],
+  "SelectedNode": "\\resources\\views\\welcome.blade.php",
+  "PreviewInSolutionExplorer": false
+}

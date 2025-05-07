@@ -1,0 +1,1091 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\welcome.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\welcome.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainers.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\trainers.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\register.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\register.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\login.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\login.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\layout.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layout.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\user\\settings.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\user\\settings.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\profile-show.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\trainer\\profile-show.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\profile-edit.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\trainer\\profile-edit.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\payout.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\trainer\\payout.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\orders.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\trainer\\orders.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\order-show.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\trainer\\order-show.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\apply.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\trainer\\apply.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\statistics\\index.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\statistics\\index.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\orders\\user-orders.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\orders\\user-orders.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\show.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\forum\\show.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\index.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\forum\\index.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\edit.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\forum\\edit.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\create.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\forum\\create.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\chat\\show.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\chat\\show.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\balance\\withdraw.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\balance\\withdraw.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\balance\\add.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\balance\\add.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\trainers\\orders.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\trainers\\orders.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\trainers\\chat.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\trainers\\chat.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\reviews\\bad.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\reviews\\bad.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\payouts\\index.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\payouts\\index.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\applications\\view.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\applications\\view.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\edit.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\edit.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\routes\\web.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\User.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\TrainerProfile.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\TrainerProfile.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\TrainerApplication.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\TrainerApplication.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Review.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Review.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\PayoutRequest.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\PayoutRequest.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Order.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Order.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumPostVote.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\ForumPostVote.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumPost.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\ForumPost.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumCommentVote.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\ForumCommentVote.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumComment.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\ForumComment.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Chat.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Chat.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\BadWord.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\BadWord.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserStatisticsController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\UserStatisticsController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserSettingsController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\UserSettingsController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserOrderController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\UserOrderController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerProfileController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\TrainerProfileController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerOrderController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\TrainerOrderController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\TrainerController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerApplicationController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\TrainerApplicationController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\PayoutController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\PayoutController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\ForumController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\ForumController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Controller.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Controller.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\ChatController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\ChatController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\BalanceController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\BalanceController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminTrainerController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\AdminTrainerController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminReviewController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\AdminReviewController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminPayoutController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\AdminPayoutController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\AdminController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminApplicationController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\AdminApplicationController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Auth\\RegisterController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Auth\\RegisterController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Auth\\LoginController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Auth\\LoginController.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\database\\factories\\UserFactory.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\UserFactory.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\tests\\Feature\\UserSettingsControllerTest.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\Feature\\UserSettingsControllerTest.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\tests\\Feature\\UserOrderControllerTest.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\Feature\\UserOrderControllerTest.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "welcome.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\welcome.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\welcome.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\welcome.blade.php",
+              "RelativeToolTip": "resources\\views\\welcome.blade.php",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:20:59.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trainers.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainers.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\trainers.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainers.blade.php",
+              "RelativeToolTip": "resources\\views\\trainers.blade.php",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGYAAAAMAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:20:46.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "register.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\register.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\register.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\register.blade.php",
+              "RelativeToolTip": "resources\\views\\register.blade.php",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:20:42.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\login.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\login.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\login.blade.php",
+              "RelativeToolTip": "resources\\views\\login.blade.php",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:20:40.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin.blade.php",
+              "RelativeToolTip": "resources\\views\\admin.blade.php",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:20:23.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "settings.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\user\\settings.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\user\\settings.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\user\\settings.blade.php",
+              "RelativeToolTip": "resources\\views\\user\\settings.blade.php",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:20:17.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "profile-show.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\profile-show.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\trainer\\profile-show.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\profile-show.blade.php",
+              "RelativeToolTip": "resources\\views\\trainer\\profile-show.blade.php",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "profile-edit.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\profile-edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\trainer\\profile-edit.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\profile-edit.blade.php",
+              "RelativeToolTip": "resources\\views\\trainer\\profile-edit.blade.php",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "payout.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\payout.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\trainer\\payout.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\payout.blade.php",
+              "RelativeToolTip": "resources\\views\\trainer\\payout.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:52.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "orders.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\orders.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\trainer\\orders.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\orders.blade.php",
+              "RelativeToolTip": "resources\\views\\trainer\\orders.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:49.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "order-show.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\order-show.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\trainer\\order-show.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\order-show.blade.php",
+              "RelativeToolTip": "resources\\views\\trainer\\order-show.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "apply.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\apply.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\trainer\\apply.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\trainer\\apply.blade.php",
+              "RelativeToolTip": "resources\\views\\trainer\\apply.blade.php",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\statistics\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\statistics\\index.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\statistics\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\statistics\\index.blade.php",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:41.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "user-orders.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\orders\\user-orders.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\orders\\user-orders.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\orders\\user-orders.blade.php",
+              "RelativeToolTip": "resources\\views\\orders\\user-orders.blade.php",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:36.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "show.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\show.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\forum\\show.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\show.blade.php",
+              "RelativeToolTip": "resources\\views\\forum\\show.blade.php",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:32.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\forum\\index.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\forum\\index.blade.php",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:29.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "edit.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\forum\\edit.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\edit.blade.php",
+              "RelativeToolTip": "resources\\views\\forum\\edit.blade.php",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\forum\\create.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\forum\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\forum\\create.blade.php",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:26.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "show.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\chat\\show.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\chat\\show.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\chat\\show.blade.php",
+              "RelativeToolTip": "resources\\views\\chat\\show.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:23.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "withdraw.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\balance\\withdraw.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\balance\\withdraw.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\balance\\withdraw.blade.php",
+              "RelativeToolTip": "resources\\views\\balance\\withdraw.blade.php",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "add.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\balance\\add.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\balance\\add.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\balance\\add.blade.php",
+              "RelativeToolTip": "resources\\views\\balance\\add.blade.php",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:14.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "edit.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin\\edit.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\edit.blade.php",
+              "RelativeToolTip": "resources\\views\\admin\\edit.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:11.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "orders.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\trainers\\orders.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin\\trainers\\orders.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\trainers\\orders.blade.php",
+              "RelativeToolTip": "resources\\views\\admin\\trainers\\orders.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAALAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:09.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "chat.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\trainers\\chat.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin\\trainers\\chat.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\trainers\\chat.blade.php",
+              "RelativeToolTip": "resources\\views\\admin\\trainers\\chat.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAALAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:14:06.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bad.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\reviews\\bad.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin\\reviews\\bad.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\reviews\\bad.blade.php",
+              "RelativeToolTip": "resources\\views\\admin\\reviews\\bad.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:13:59.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\payouts\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin\\payouts\\index.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\payouts\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\admin\\payouts\\index.blade.php",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:13:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "view.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\applications\\view.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin\\applications\\view.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\admin\\applications\\view.blade.php",
+              "RelativeToolTip": "resources\\views\\admin\\applications\\view.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:13:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TrainerProfile.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\TrainerProfile.php",
+              "RelativeDocumentMoniker": "app\\Models\\TrainerProfile.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\TrainerProfile.php",
+              "RelativeToolTip": "app\\Models\\TrainerProfile.php",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:58.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TrainerApplication.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\TrainerApplication.php",
+              "RelativeDocumentMoniker": "app\\Models\\TrainerApplication.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\TrainerApplication.php",
+              "RelativeToolTip": "app\\Models\\TrainerApplication.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:57.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Review.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Review.php",
+              "RelativeDocumentMoniker": "app\\Models\\Review.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Review.php",
+              "RelativeToolTip": "app\\Models\\Review.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:56.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PayoutRequest.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\PayoutRequest.php",
+              "RelativeDocumentMoniker": "app\\Models\\PayoutRequest.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\PayoutRequest.php",
+              "RelativeToolTip": "app\\Models\\PayoutRequest.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:55.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Order.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Order.php",
+              "RelativeDocumentMoniker": "app\\Models\\Order.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Order.php",
+              "RelativeToolTip": "app\\Models\\Order.php",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ForumPostVote.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumPostVote.php",
+              "RelativeDocumentMoniker": "app\\Models\\ForumPostVote.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumPostVote.php",
+              "RelativeToolTip": "app\\Models\\ForumPostVote.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:52.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ForumPost.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumPost.php",
+              "RelativeDocumentMoniker": "app\\Models\\ForumPost.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumPost.php",
+              "RelativeToolTip": "app\\Models\\ForumPost.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:51.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ForumCommentVote.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumCommentVote.php",
+              "RelativeDocumentMoniker": "app\\Models\\ForumCommentVote.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumCommentVote.php",
+              "RelativeToolTip": "app\\Models\\ForumCommentVote.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:49.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ForumComment.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumComment.php",
+              "RelativeDocumentMoniker": "app\\Models\\ForumComment.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\ForumComment.php",
+              "RelativeToolTip": "app\\Models\\ForumComment.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:48.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Chat.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Chat.php",
+              "RelativeDocumentMoniker": "app\\Models\\Chat.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\Chat.php",
+              "RelativeToolTip": "app\\Models\\Chat.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:46.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BadWord.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\BadWord.php",
+              "RelativeDocumentMoniker": "app\\Models\\BadWord.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\BadWord.php",
+              "RelativeToolTip": "app\\Models\\BadWord.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:12:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PayoutController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\PayoutController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\PayoutController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\PayoutController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\PayoutController.php",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:10:56.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Controller.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Controller.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Controller.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:10:07.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ChatController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\ChatController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\ChatController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\ChatController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\ChatController.php",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:10:02.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BalanceController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\BalanceController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\BalanceController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\BalanceController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\BalanceController.php",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:09:57.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminTrainerController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminTrainerController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\AdminTrainerController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminTrainerController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\AdminTrainerController.php",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:09:41.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AdminReviewController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminReviewController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\AdminReviewController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminReviewController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\AdminReviewController.php",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:09:28.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AdminPayoutController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminPayoutController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\AdminPayoutController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminPayoutController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\AdminPayoutController.php",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACwAAABHAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:09:03.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\AdminController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\AdminController.php",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T19:08:52.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ForumController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\ForumController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\ForumController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\ForumController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\ForumController.php",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T11:07:51.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TrainerApplicationController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerApplicationController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\TrainerApplicationController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerApplicationController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\TrainerApplicationController.php",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCYAAABZAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-07T10:44:31.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TrainerProfileController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerProfileController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\TrainerProfileController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerProfileController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\TrainerProfileController.php",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T22:58:02.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TrainerController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\TrainerController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\TrainerController.php",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T22:52:49.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "layout.blade.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\layout.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layout.blade.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\resources\\views\\layout.blade.php",
+              "RelativeToolTip": "resources\\views\\layout.blade.php",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAADoAAAADAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T22:51:07.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\User.php",
+              "RelativeDocumentMoniker": "app\\Models\\User.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Models\\User.php",
+              "RelativeToolTip": "app\\Models\\User.php",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEQAAAAFAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T22:48:58.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TrainerOrderController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerOrderController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\TrainerOrderController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\TrainerOrderController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\TrainerOrderController.php",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T20:24:38.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserFactory.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\database\\factories\\UserFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\UserFactory.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\database\\factories\\UserFactory.php",
+              "RelativeToolTip": "database\\factories\\UserFactory.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T20:05:52.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AdminApplicationController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminApplicationController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\AdminApplicationController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\AdminApplicationController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\AdminApplicationController.php",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T19:59:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RegisterController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Auth\\RegisterController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Auth\\RegisterController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Auth\\RegisterController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Auth\\RegisterController.php",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T19:58:05.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoginController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Auth\\LoginController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Auth\\LoginController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\Auth\\LoginController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Auth\\LoginController.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T19:56:43.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserStatisticsController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserStatisticsController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\UserStatisticsController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserStatisticsController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\UserStatisticsController.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T19:48:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserSettingsControllerTest.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\tests\\Feature\\UserSettingsControllerTest.php",
+              "RelativeDocumentMoniker": "tests\\Feature\\UserSettingsControllerTest.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\tests\\Feature\\UserSettingsControllerTest.php",
+              "RelativeToolTip": "tests\\Feature\\UserSettingsControllerTest.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T19:47:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserSettingsController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserSettingsController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\UserSettingsController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserSettingsController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\UserSettingsController.php",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwB8AAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T19:47:11.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserOrderControllerTest.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\tests\\Feature\\UserOrderControllerTest.php",
+              "RelativeDocumentMoniker": "tests\\Feature\\UserOrderControllerTest.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\tests\\Feature\\UserOrderControllerTest.php",
+              "RelativeToolTip": "tests\\Feature\\UserOrderControllerTest.php",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAcwE0AAAAQAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T19:41:29.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserOrderController.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserOrderController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\UserOrderController.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\app\\Http\\Controllers\\UserOrderController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\UserOrderController.php",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAADIAAABkAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T19:40:40.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bakalaur\\program\\bakalaur\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJIAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-05-06T18:51:02.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
