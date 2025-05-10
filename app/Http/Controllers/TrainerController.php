@@ -15,15 +15,30 @@ class TrainerController extends Controller
             $query->where('name', 'like', '%' . $request->search . '%');
         }
 
+        if ($request->filled('rank')) {
+            $query->whereHas('profile', function ($q) use ($request) {
+                $q->where('rank', $request->rank);
+            });
+        }
+
+        if ($request->filled('day')) {
+            $query->whereHas('profile', function ($q) use ($request) {
+                $q->where('availability->notes', 'like', '%' . $request->day . '%');
+            });
+        }
+
+        if ($request->has('has_achievements')) {
+            $query->whereHas('profile', function ($q) {
+                $q->whereNotNull('achievements');
+            });
+        }
+
         $trainers = $query->get();
 
         $trainers = $trainers->map(function ($trainer) {
             $lowestPrice = null;
 
-            if (
-                $trainer->profile &&
-                is_array($trainer->profile->pricing)
-            ) {
+            if ($trainer->profile && is_array($trainer->profile->pricing)) {
                 $prices = collect($trainer->profile->pricing)
                     ->pluck('price')
                     ->filter()
@@ -35,7 +50,7 @@ class TrainerController extends Controller
             $trainer->lowest_price = $lowestPrice ?? INF;
             return $trainer;
         });
-      
+
         if ($request->sort === 'asc') {
             $trainers = $trainers->sortBy('lowest_price');
         } elseif ($request->sort === 'desc') {

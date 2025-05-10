@@ -38,7 +38,7 @@ class AdminApplicationControllerTest extends TestCase
         $response = $this->get("/admin/applications/{$user->id}");
 
         $response->assertRedirect();
-        $response->assertSessionHas('error', 'Naudotojas nepateikė paraiškos.');
+        $response->assertSessionHas('error', 'Naudotojas nepateikęs paraiškos.');
     }
 
     /** @test */

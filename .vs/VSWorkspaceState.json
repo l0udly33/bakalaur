@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\resources",
-    "\\resources\\views",
-    "\\resources\\views\\admin",
-    "\\resources\\views\\admin\\applications",
-    "\\resources\\views\\balance",
-    "\\resources\\views\\chat",
-    "\\resources\\views\\forum",
-    "\\resources\\views\\orders",
-    "\\resources\\views\\statistics",
-    "\\resources\\views\\trainer"
+    "\\app",
+    "\\app\\Http",
+    "\\database\\factories",
+    "\\lang\\lt",
+    "\\resources\\views\\trainer",
+    "\\storage\\app",
+    "\\storage\\logs",
+    "\\tests",
+    "\\tests\\Feature"
   ],
-  "SelectedNode": "\\resources\\views\\welcome.blade.php",
+  "SelectedNode": "\\tests\\Feature\\UserTest.php",
   "PreviewInSolutionExplorer": false
 }

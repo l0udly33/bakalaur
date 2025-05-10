@@ -50,7 +50,7 @@ class TrainerApplicationControllerTest extends TestCase
 
         // Assert that the user is redirected with an error message
         $response->assertRedirect(route('user.statistics'));
-        $response->assertSessionHas('error', 'Jūs jau pateikėte paraišką.');
+        $response->assertSessionHas('error', 'Jūs esate pateikę paraišką.');
     }
 
     /** @test */
@@ -83,7 +83,7 @@ class TrainerApplicationControllerTest extends TestCase
 
         // Assert that the user is redirected to the statistics page with a success message
         $response->assertRedirect(route('user.statistics'));
-        $response->assertSessionHas('success', 'Prašymas išsiųstas!');
+        $response->assertSessionHas('success', 'Prašymas išsiųstas.');
     }
 
     /** @test */

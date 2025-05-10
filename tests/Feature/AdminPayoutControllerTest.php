@@ -47,8 +47,8 @@ class AdminPayoutControllerTest extends TestCase
         ]);
 
         $response->assertRedirect();
-        $response->assertSessionHasErrors(['message' => 'Treneris neturi pakankamai lėšų.']);
-        $this->assertEquals('pending', $payout->fresh()->status);  // Statusas turi likti 'pending'
+        $response->assertSessionHasErrors(['message' => 'Nepakanka lėšų.']);
+        $this->assertEquals('pending', $payout->fresh()->status);  
     }
 
     /** @test */
