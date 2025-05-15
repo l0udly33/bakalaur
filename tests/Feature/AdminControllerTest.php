@@ -17,9 +17,9 @@ class AdminControllerTest extends TestCase
         $user1 = User::factory()->create(['role' => 'trainer']);
         $user2 = User::factory()->create(['role' => 'user']);
 
-        $this->actingAs($admin); // Prisijungiame kaip admin
+        $this->actingAs($admin); 
 
-        // Patikriname, kad vartotojai rodomi
+        
         $response = $this->get('/admin?sort=role');
         $response->assertStatus(200);
         $response->assertSee($user1->name);
@@ -35,7 +35,7 @@ class AdminControllerTest extends TestCase
 
         $this->actingAs($admin);
 
-        // Patikriname, kad atidaro redagavimo formą
+        
         $response = $this->get("/admin/users/{$user->id}/edit");
 
         $response->assertStatus(200);
@@ -51,7 +51,7 @@ class AdminControllerTest extends TestCase
 
         $this->actingAs($admin);
 
-        // Atnaujiname vartotojo duomenis
+        
         $response = $this->put("/admin/users/{$user->id}", [
             'name' => 'Updated User',
             'email' => 'updateduser@example.com',
@@ -59,7 +59,7 @@ class AdminControllerTest extends TestCase
             'admin_notes' => 'Some admin notes',
         ]);
 
-        // Patikriname, ar vartotojo duomenys buvo atnaujinti
+        
         $response->assertRedirect(route('admin'));
         $response->assertSessionHas('success', 'Naudotojas atnaujintas sėkmingai.');
 
@@ -79,14 +79,14 @@ class AdminControllerTest extends TestCase
 
         $this->actingAs($admin);
 
-        // Bandome atnaujinti su neteisingais duomenimis
+        
         $response = $this->put("/admin/users/{$user->id}", [
             'name' => '',
             'email' => 'not-an-email',
             'role' => 'invalidrole',
         ]);
 
-        // Patikriname, kad atgal grįžta klaidų žinutės
+        
         $response->assertSessionHasErrors(['name', 'email', 'role']);
     }
 }

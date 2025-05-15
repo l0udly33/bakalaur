@@ -17,12 +17,10 @@ class UserOrderControllerTest extends TestCase
     /** @test */
     public function it_creates_order_with_free_trial()
     {
-        // Set up a trainer and user
         $user = User::factory()->create();
         $trainer = User::factory()->create(['role' => 'trainer']);
         $profile = TrainerProfile::factory()->create(['user_id' => $trainer->id]);
 
-        // Simulate a free trial order creation
         $this->actingAs($user);
 
         $response = $this->post(route('user-orders.store'), [
@@ -31,7 +29,6 @@ class UserOrderControllerTest extends TestCase
             'description' => 'Free trial session'
         ]);
 
-        // Assert order created successfully
         $response->assertRedirect(route('orders.user'));
         $this->assertDatabaseHas('orders', [
             'user_id' => $user->id,
@@ -48,7 +45,6 @@ class UserOrderControllerTest extends TestCase
         $trainer = User::factory()->create(['role' => 'trainer']);
         $profile = TrainerProfile::factory()->create(['user_id' => $trainer->id]);
 
-        // Adding a pricing option to the trainer profile
         $profile->update([
             'pricing' => [
                 ['hours' => 1, 'price' => 50],
@@ -57,14 +53,12 @@ class UserOrderControllerTest extends TestCase
 
         $this->actingAs($user);
 
-        // Submit the order with the selected pricing option
         $response = $this->post(route('user-orders.store'), [
             'trainer_id' => $trainer->id,
-            'selected_option' => 0,  // The index of the pricing option
+            'selected_option' => 0,  
             'description' => 'Paid session'
         ]);
 
-        // Assert that the order is created
         $response->assertRedirect(route('orders.user'));
         $this->assertDatabaseHas('orders', [
             'user_id' => $user->id,
@@ -88,7 +82,6 @@ class UserOrderControllerTest extends TestCase
 
         $response = $this->delete(route('admin.reviews.destroy', $review->id));
 
-        // Assert that the review is deleted
         $response->assertRedirect();
         $this->assertDatabaseMissing('reviews', ['id' => $review->id]);
     }

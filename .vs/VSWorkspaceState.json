@@ -3,14 +3,11 @@
     "",
     "\\app",
     "\\app\\Http",
-    "\\database\\factories",
-    "\\lang\\lt",
+    "\\resources",
+    "\\resources\\views",
     "\\resources\\views\\trainer",
-    "\\storage\\app",
-    "\\storage\\logs",
-    "\\tests",
     "\\tests\\Feature"
   ],
-  "SelectedNode": "\\tests\\Feature\\UserTest.php",
+  "SelectedNode": "\\resources\\views\\trainers.blade.php",
   "PreviewInSolutionExplorer": false
 }

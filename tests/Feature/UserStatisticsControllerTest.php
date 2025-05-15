@@ -13,7 +13,6 @@ class UserStatisticsControllerTest extends TestCase
 
     protected function authenticate()
     {
-        // Sukuriame vartotoją ir jį autentifikuojame
         $user = User::factory()->create();
         $this->actingAs($user);
     }
@@ -22,14 +21,14 @@ class UserStatisticsControllerTest extends TestCase
     public function get_statistika_route_requires_authentication()
     {
         $response = $this->get('/statistika');
-        $response->assertRedirect('/login'); // nes middleware 'auth'
+        $response->assertRedirect('/login'); 
     }
 
     /** @test */
     public function post_statistika_requires_authentication()
     {
         $response = $this->post('/statistika', []);
-        $response->assertRedirect('/login'); // nes middleware 'auth'
+        $response->assertRedirect('/login'); 
     }
 
     /** @test */
@@ -48,7 +47,7 @@ class UserStatisticsControllerTest extends TestCase
     {
         $this->authenticate();
 
-        $response = $this->post('/statistika', []); // Missing username and tag
+        $response = $this->post('/statistika', []); 
 
         $response->assertSessionHasErrors(['username', 'tag']);
     }

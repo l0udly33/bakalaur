@@ -30,7 +30,7 @@ class AdminPayoutControllerTest extends TestCase
         $response->assertRedirect();
         $response->assertSessionHas('success', 'Išmokėjimo statusas atnaujintas.');
         $this->assertEquals('completed', $payout->fresh()->status);
-        $this->assertEquals(800, $trainer->fresh()->balance);  // Trainerio balansas turėtų sumažėti
+        $this->assertEquals(800, $trainer->fresh()->balance);  
     }
 
     /** @test */
@@ -61,7 +61,7 @@ class AdminPayoutControllerTest extends TestCase
         $this->actingAs($admin);
 
         $response = $this->post('/admin/payouts/' . $payout->id . '/status', [
-            'status' => 'invalid_status',  // Invalid status
+            'status' => 'invalid_status',  
         ]);
 
         $response->assertSessionHasErrors('status');

@@ -16,13 +16,13 @@ class AdminApplicationControllerTest extends TestCase
     {
         $admin = User::factory()->create(['role' => 'admin']);
         $user = User::factory()->create();
-        TrainerApplication::factory()->create(['user_id' => $user->id]);  // Sukuriama paraiška
+        TrainerApplication::factory()->create(['user_id' => $user->id]); 
 
-        $this->actingAs($admin); // ← būtina
+        $this->actingAs($admin); 
 
         $response = $this->get("/admin/applications/{$user->id}");
 
-        $response->assertStatus(200); // Tikimasi, kad atsakymas bus 200
+        $response->assertStatus(200); 
         $response->assertViewIs('admin.applications.view');
         $response->assertViewHas('user', $user);
     }
@@ -31,7 +31,7 @@ class AdminApplicationControllerTest extends TestCase
     public function it_redirects_back_if_user_has_no_application()
     {
         $admin = User::factory()->create(['role' => 'admin']);
-        $user = User::factory()->create();  // Sukuriamas vartotojas be paraiškos
+        $user = User::factory()->create();  
 
         $this->actingAs($admin);
 
@@ -47,7 +47,7 @@ class AdminApplicationControllerTest extends TestCase
         $admin = User::factory()->create(['role' => 'admin']);
         $user = User::factory()->create(['role' => 'pending']);
 
-        $this->actingAs($admin); // ← būtina
+        $this->actingAs($admin); 
 
         $response = $this->post("/admin/applications/{$user->id}/approve");
 
@@ -80,7 +80,7 @@ class AdminApplicationControllerTest extends TestCase
         $user = User::factory()->create();
         TrainerApplication::factory()->create(['user_id' => $user->id]);
 
-        $this->actingAs($admin); // ← būtina
+        $this->actingAs($admin); 
 
         $response = $this->post("/admin/applications/{$user->id}/notes", [
             'notes' => 'Tai yra pastaba.',
